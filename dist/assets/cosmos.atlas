@@ -1,0 +1,12 @@
+cosmos.png
+size:537,375
+filter:Linear,Linear
+pma:true
+sky/moon
+bounds:377,38,158,158
+sky/moon_glow
+bounds:2,2,373,371
+sky/sputnik
+bounds:377,198,175,151
+offsets:1,1,177,153
+rotate:90
